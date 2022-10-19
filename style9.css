@@ -1,0 +1,111 @@
+
+
+body{
+  background-color: white;
+  width: 100%;
+}
+li {
+  display: inline;
+  padding-left: 50px;
+  font-size: large;
+  font-weight: 600;
+}
+.star {
+  margin-bottom: 10px;
+}
+.navbar-container{
+  position:relative;
+  left:70px;
+  top:0px;
+}
+.list{
+  position:relative;
+  left:300px;
+  top:0px;
+
+}
+.search-icon{
+  position:absolute;
+  left:1000px;
+  top:75px;
+}
+.nav-button{
+  position:absolute;
+  left:1050px;
+  top:75px;
+font-weight: 600;
+border-radius:30px;
+width: 100px;
+height:35px;
+}
+.globe{
+  position:absolute;
+  left:700px;
+  top:130px;
+}
+h1{
+  
+  
+  position:absolute;
+  left:700px;
+  top:220px;
+  font-size: 60px;
+  font-family: 'Times New Roman';
+}
+p{
+  
+  position:absolute;
+  left:680px;
+  top:340px;
+  
+}
+.button-email{
+  position:absolute;
+  left:780px;
+  top:410px;
+  border-radius: 80px;
+  height:30px;
+  width:110px;
+}
+.button-join{
+  position:absolute;
+  left:900px;
+  top:410px;
+  background-color: black;
+  color:white;
+  border-radius: 30px;
+  height:30px;
+  width:110px;
+}
+.star{
+
+    position:absolute;
+    left:1170px;
+    top:160px;
+
+}
+h4{
+  position:absolute;
+    left:850px;
+    top:460px;
+}
+.icons{
+  position:absolute;
+left:800px;
+top:510px;
+font-family: 'Courier New';
+}
+.square{
+
+  position:absolute;
+  left:200px;
+  top:470px;
+}
+
+  .image{
+    position:absolute;
+  left:100px;
+  top:420px;
+}
+
+  
